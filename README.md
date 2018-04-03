@@ -1,4 +1,4 @@
-# Title Here
+# Friendly Sid
 Our team proposes building a spider bot to help those get over their arachnophobia. It will be able to either navigate itself around a room, charge at objects followed by a dance or controlled remotely over bluetooth.
 
 ## Summary
